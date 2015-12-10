@@ -1,0 +1,6 @@
+/src/logs/*
+/src/daemons/*
+/dockerfiles/pgdata
+/src/gulp/build
+/dockerfiles/id_rsa.pub
+.idea
